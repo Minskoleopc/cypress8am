@@ -1,0 +1,7 @@
+// visual studio code -- IDE 
+https://code.visualstudio.com/download
+
+// Node js
+//https://nodejs.org/en/download/
+
+// node fileName.js
